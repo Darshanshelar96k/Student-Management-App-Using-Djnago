@@ -9,11 +9,6 @@ This project is a simple Student Management System implemented using Django, HTM
 - **Update:** Modify the details of existing student records.
 - **Delete:** Remove unwanted student records from the system.
 
-## Screenshots
-
-![Django]([https://github.com/Darshanshelar96k/Student-Management-App-Using-Djnago/assets/93928205/02b458a8-8da7-4838-be9c-bb0e984412a8](https://cdn-ak.f.st-hatena.com/images/fotolife/n/n-guitar/20210111/20210111204540.png))
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
 
 ## Technologies Used
 
